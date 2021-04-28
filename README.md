@@ -1,4 +1,4 @@
-# statistical-machine-learning
+# statistical-machine-learning(2019년 2학기)
 Kannada MNIST classifier
 
 본 파일은 고려대학교 통계학과 박유성교수님의 고급통계적 머신러닝의 기말 프로젝트의 주제로 다루었던 내용을 정리한 것이다. 
